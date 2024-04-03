@@ -1,0 +1,1 @@
+Rastgele oluşturulmuş verilerin karşılaştırılması.
